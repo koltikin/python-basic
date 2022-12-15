@@ -1,3 +1,4 @@
 {
-    "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace,MesloLGS NF Regular"
+    "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace,MesloLGS NF Regular",
+    "python.formatting.provider": "black"
 }
